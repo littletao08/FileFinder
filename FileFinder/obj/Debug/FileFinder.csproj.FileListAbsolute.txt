@@ -1,0 +1,8 @@
+D:\mygit\FileFinder\FileFinder\bin\Debug\FileFinder.exe
+D:\mygit\FileFinder\FileFinder\bin\Debug\FileFinder.pdb
+D:\mygit\FileFinder\FileFinder\obj\Debug\FileFinder.csprojResolveAssemblyReference.cache
+D:\mygit\FileFinder\FileFinder\obj\Debug\FileFinder.Properties.Resources.resources
+D:\mygit\FileFinder\FileFinder\obj\Debug\FileFinder.csproj.GenerateResource.Cache
+D:\mygit\FileFinder\FileFinder\obj\Debug\FileFinder.exe
+D:\mygit\FileFinder\FileFinder\obj\Debug\FileFinder.pdb
+D:\mygit\FileFinder\FileFinder\obj\Debug\FileFinder.Form1.resources
